@@ -1,5 +1,7 @@
 # ABM-training
 Income Distribution &amp; some other stuff using ABM
+###############################################################
+Project Alpha
 In Piketty's book Capital in 21th Centry,the author discribed that when interest rate(or investment profit)is larger than the groth rate of income ,the wealth will centralized and poor getting poorer.The only way out is implement inheritance tax.
 What I'm interested in is ;
 First:How initial income distribution pattern affect the income distribution after several iterates
