@@ -7,3 +7,12 @@ What I'm interested in is ;
 First:How initial income distribution pattern affect the income distribution after several iterates
 Second:How tax affect the income distribution.Will the progressive tax have a positive effect? Or will the inheritance tax is the only way out(Piketty's view)
 This model may be too hard for a rookie like me,but have a try and have fun.Making progrss is better then stay.Now is time to get some reference.
+##############################################################
+Ver Cloud 0.1
+What I have done in this Ver:
+1.the tax
+2.investment for the rich
+What I want to add in the future Ver:
+1.economy growth
+2.population growth
+3.more accurate transfer payment 
