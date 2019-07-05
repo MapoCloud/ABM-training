@@ -16,3 +16,16 @@ What I want to add in the future Ver:
 1.economy growth
 2.population growth
 3.more accurate transfer payment 
+################################################################
+Ver Cloud 0.11
+apparently v 0.1 is uselesss
+the transfer dosen't work and the pattern is quite strange 
+what I have fixed:
+1.a working investment procedure
+2.a working tax system
+what I didn't do:
+1.a working transfer process
+2.a good pattern of distribution
+what I want to do :
+1.add economy growth
+2.add population growth
