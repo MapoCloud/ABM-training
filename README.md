@@ -1,2 +1,3 @@
 # ABM-training
-Income Distribution &amp; some other stuff using ABM
+1.monopoly
+2.macroeconomics
